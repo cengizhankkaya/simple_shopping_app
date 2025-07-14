@@ -2,6 +2,11 @@
 
 Flutter ile geliştirilmiş, modern ve sade bir alışveriş uygulaması örneği.
 
+![465754555-b81f06ee-5855-4c80-bba5-3daaf09b74c1](https://github.com/user-attachments/assets/5f810f07-c574-4d5a-9681-7cf092c77bd7)
+
+
+
+
 ## Özellikler
 - **Giriş (Login) Ekranı:** Kullanıcı adı ve şifre ile giriş yapılır.
 - **Katalog Ekranı:** Renkli kutularla listelenmiş, özel isimli ürünler. Sepete eklenen ürünlerin yanında tik işareti çıkar.
